@@ -8,17 +8,28 @@ Why? Because I like it!
 ## I'm currently working on
 ![b94982020a330f1604e94b2e92ea1380aeb4841c](https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71)
 
-- Echoes of war (Roblox game) <img width="2000" height="1000" alt="EchoesOfWar" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
-War game, that I've been really working hard on
+- **Echoes of war (Roblox game)** : <img width="2000" height="1000" alt="EchoesOfWar" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
+War game, that I've been really working hard on\
+(Please follow :D)
 
 ---
 ## I'm currently learning
 ![nerd-spongebob](https://github.com/user-attachments/assets/483d2656-9708-4d43-8d26-dbefa6c76494)
-- In high school
-- Chinese
-- Programming
+- **In high school**: <br>
+Currently in grade 9,
+After graduation, I've planned to go to vocational education\
+Good luck to me :P
+- **Chinese**: <br>
+I learn Chinese because some of my followers on some social media platforms are Chinese\
+(Also, it is my hobby)
+- **Programming**: <br>
+You know, I know :P
+
+---
 
 ## What languages do I speak?
+![limbus-company-limbus](https://github.com/user-attachments/assets/fb8b5af2-3f2b-4029-aba7-1245d989ed52)
+
 - English
 - Thai
 - Little of Chinese
