@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi There!
+
+I'm Mawin :D
+I'm a Programmer and also a Digital artist, game developer 
+
+
 
 <!--
 **weenachuangkud/weenachuangkud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
