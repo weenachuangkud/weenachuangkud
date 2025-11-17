@@ -1,7 +1,15 @@
-# Hi There!, I'm Mawin :D
-![hello there gif](gifs/oh-hey-oh-hey-there.gif) <br>
-<strong>I'm a Programmer and also a Digital artist, game developer </strong> from **Bangkok, Thailand** <br>
-Why? Because I like it!
+<h1 align="center">Hi There!, I'm Mawin :D</h1>
+
+<p align="center">
+  <img src="gifs/oh-hey-oh-hey-there.gif" width="250" />
+</p>
+
+<p align="center">
+  <strong>I'm a Programmer, Digital Artist, and Game Developer</strong><br>
+  from <b>Bangkok, Thailand</b> <br>
+  Why? Because I like it!
+</p>
+
 
 ---
 
