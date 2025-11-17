@@ -1,6 +1,6 @@
 # Hi There!, I'm Mawin :D
 ![hello there gif](gifs/oh-hey-oh-hey-there.gif) <br>
-<strong>I'm a Programmer and also a Digital artist, game developer </strong><br>
+<strong>I'm a Programmer and also a Digital artist, game developer </strong><br> from **Bangkok thailand**
 Why? Because I like it!
 
 ---
