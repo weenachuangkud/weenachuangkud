@@ -1,6 +1,6 @@
 # Hi There!, I'm Mawin :D
 ![hello there gif](gifs/oh-hey-oh-hey-there.gif) <br>
-<strong>I'm a Programmer and also a Digital artist, game developer </strong><br> from **Bangkok thailand**
+<strong>I'm a Programmer and also a Digital artist, game developer </strong> from **Bangkok, Thailand** <br>
 Why? Because I like it!
 
 ---
@@ -8,7 +8,7 @@ Why? Because I like it!
 ## I'm currently working on
 <img width="350" height="255" alt="download" src="https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71" />
 
-- **Echoes of war (Roblox game)** : <br>
+- **Echoes of war (Roblox game)**: <br>
 <img width="750" height="500" alt="EchoesOfWar" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
 War game, that I've been really working hard on\
 (Please follow :D)
@@ -25,6 +25,13 @@ I learn Chinese because some of my followers on some social media platforms are 
 (Also, it is my hobby)
 - **Programming**: <br>
 You know, I know :P
+
+---
+
+## Experenices 
+- **Programming** : 2.5 Years
+- **Game development** : 2 Years
+- **Digital artist** : 2-3 Months
 
 ---
 
