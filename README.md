@@ -52,8 +52,6 @@ You know, I know :P
 
 <h1 align="center">What languages do I speak?</h1>
 
-![limbus-company-limbus](https://github.com/user-attachments/assets/fb8b5af2-3f2b-4029-aba7-1245d989ed52)
-
 - **English** <br>
 <img width="150" height="145" alt="download" src="https://github.com/user-attachments/assets/59e25e30-40fe-49c9-9f73-d603fdf4137f" />
 
