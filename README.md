@@ -30,9 +30,21 @@ You know, I know :P
 ## What languages do I speak?
 ![limbus-company-limbus](https://github.com/user-attachments/assets/fb8b5af2-3f2b-4029-aba7-1245d989ed52)
 
-- English
-- Thai
-- Little of Chinese
+- **English** <br>
+<img width="150" height="100" alt="download" src="https://github.com/user-attachments/assets/59e25e30-40fe-49c9-9f73-d603fdf4137f" />
+
+I've been speaking English for about 4-5 years\
+Main language, mostly spoken
+
+- **Thai** <br>
+<img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/81efd222-cd1f-4b42-bcac-eee046cddc4e" />
+
+I'm a native speaker :D
+
+- **Little of Chinese** <br>
+<img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/1a9d6677-8e3c-4125-8483-aeaa8e3f0aa5" />
+
+Still need to learn more/practice
 
 <!--
 **weenachuangkud/weenachuangkud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
