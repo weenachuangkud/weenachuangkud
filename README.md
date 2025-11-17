@@ -27,15 +27,11 @@ A war game that I've been really working hard on
 
 ---
 
-## I'm currently learning
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/483d2656-9708-4d43-8d26-dbefa6c76494" width="250" />
-</p>
+<h1 align="center">I'm currently learning</h1>
 
 - **In high school**  
 Currently in grade 9.  
-After graduation, I've planned to go to vocational education.  
+After graduation, I plan to go to vocational education.  
 Good luck to me :P
 
 - **Chinese**  
