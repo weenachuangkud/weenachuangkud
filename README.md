@@ -13,26 +13,43 @@
 
 ---
 
-## I'm currently working on
-<img width="350" height="255" alt="download" src="https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71" />
+---
 
-- **Echoes of war (Roblox game)**: <br>
-<img width="750" height="500" alt="EchoesOfWar" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
-War game, that I've been really working hard on\
+## I'm currently working on
+
+<p align="center">
+  <img width="350" height="255" src="https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71" />
+</p>
+
+- **Echoes of War (Roblox game)**
+
+<p align="center">
+  <img width="750" height="500" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
+</p>
+
+War game that I've been really working hard on  
 (Please follow :D)
 
 ---
+
 ## I'm currently learning
-![nerd-spongebob](https://github.com/user-attachments/assets/483d2656-9708-4d43-8d26-dbefa6c76494)
-- **In high school**: <br>
-Currently in grade 9,
-After graduation, I've planned to go to vocational education\
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/483d2656-9708-4d43-8d26-dbefa6c76494" width="250" />
+</p>
+
+- **In high school**  
+Currently in grade 9.  
+After graduation, I've planned to go to vocational education.  
 Good luck to me :P
-- **Chinese**: <br>
-I learn Chinese because some of my followers on some social media platforms are Chinese\
-(Also, it is my hobby)
-- **Programming**: <br>
+
+- **Chinese**  
+I learn Chinese because some of my followers on social media are Chinese.  
+(Also, it's my hobby)
+
+- **Programming**  
 You know, I know :P
+
 
 ---
 
