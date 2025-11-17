@@ -8,6 +8,7 @@
   <strong>I'm a Programmer, Digital Artist, and Game Developer</strong><br>
   from <b>Bangkok, Thailand</b> <br>
   aka programming cat (Actually not :P)
+  15 y/o
 </p>
 
 
