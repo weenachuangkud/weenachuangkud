@@ -6,9 +6,10 @@ Why? Because I like it!
 ---
 
 ## I'm currently working on
-![b94982020a330f1604e94b2e92ea1380aeb4841c](https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71)
+<img width="350" height="255" alt="download" src="https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71" />
 
-- **Echoes of war (Roblox game)** : <img width="2000" height="1000" alt="EchoesOfWar" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
+- **Echoes of war (Roblox game)** : <br>
+<img width="750" height="500" alt="EchoesOfWar" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
 War game, that I've been really working hard on\
 (Please follow :D)
 
