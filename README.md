@@ -44,14 +44,16 @@ You know, I know :P
 
 ---
 
-## Experenices 
+<h1 align="center">Experenices</h1>
+
 - **Programming** : 2.5 Years
 - **Game development** : 2 Years
 - **Digital artist** : 2-3 Months
 
 ---
 
-## What languages do I speak?
+<h1 align="center">What languages do I speak?</h1>
+
 ![limbus-company-limbus](https://github.com/user-attachments/assets/fb8b5af2-3f2b-4029-aba7-1245d989ed52)
 
 - **English** <br>
