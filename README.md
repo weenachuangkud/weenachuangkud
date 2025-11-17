@@ -15,7 +15,7 @@
 
 ---
 
-## I'm currently working on
+<h1 align="center">I'm currently working on</h1>
 
 <p align="center">
   <img width="350" height="255" src="https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71" />
