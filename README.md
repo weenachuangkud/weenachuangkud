@@ -17,17 +17,12 @@
 
 <h1 align="center">I'm currently working on</h1>
 
-<p align="center">
-  <img width="350" height="255" src="https://github.com/user-attachments/assets/06ba9aa9-34de-4b45-9bbe-740e921d9a71" />
-</p>
-
 - **Echoes of War (Roblox game)**
-
 <p align="center">
-  <img width="750" height="500" src="https://github.com/user-attachments/assets/29cd9da4-c0bd-4782-a097-494b7b0c44ca" />
+  <img width="455" height="355" src="https://github.com/user-attachments/assets/8e60dcbf-220f-4030-8627-c2f16606d618" />
 </p>
 
-War game that I've been really working hard on  
+A war game that I've been really working hard on  
 (Please follow :D)
 
 ---
