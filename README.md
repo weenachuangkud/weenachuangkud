@@ -53,7 +53,7 @@ You know, I know :P
 <h1 align="center">What languages do I speak?</h1>
 
 - **English** <br>
-<img width="150" height="145" alt="download" src="https://github.com/user-attachments/assets/59e25e30-40fe-49c9-9f73-d603fdf4137f" />
+<img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/59e25e30-40fe-49c9-9f73-d603fdf4137f" />
 
 I've been speaking English for about 4-5 years\
 Main language, mostly spoken
