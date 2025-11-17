@@ -7,7 +7,7 @@
 <p align="center">
   <strong>I'm a Programmer, Digital Artist, and Game Developer</strong><br>
   from <b>Bangkok, Thailand</b> <br>
-  Why? Because I like it!
+  aka programming cat (Actually not :P)
 </p>
 
 
