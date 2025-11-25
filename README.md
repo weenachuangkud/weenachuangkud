@@ -7,7 +7,7 @@
 <p align="center">
   <strong>I'm a Programmer, Digital Artist, and Game Developer</strong><br>
   from <b>Bangkok, Thailand</b> <br>
-  aka Codeaholic cat <br>
+  aka <strong>Codeaholic cat</strong> <br>
   15 y/o
 </p>
 
