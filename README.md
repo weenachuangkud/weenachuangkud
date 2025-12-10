@@ -16,8 +16,7 @@
 
 <h1 align="center">I'm currently working on</h1>
 
-- **Echoes of War (Roblox game)**
-- **PAUSED** 
+- **Echoes of War (Roblox game)** PAUSED
 <p align="center">
   <img width="455" height="355" src="https://github.com/user-attachments/assets/8e60dcbf-220f-4030-8627-c2f16606d618" />
 </p>
