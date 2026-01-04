@@ -69,6 +69,11 @@ I'm a native speaker :D
 
 Still need to learn more/practice
 
+- **Lao** <br>
+<img width="275" height="183" alt="download" src="https://github.com/user-attachments/assets/33518bb8-8362-462a-aef3-f357bc9e3e57" />
+
+Very similar to Thai. And I can definitely speak that
+
 <!--
 **weenachuangkud/weenachuangkud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
