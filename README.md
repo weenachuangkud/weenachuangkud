@@ -18,7 +18,7 @@
 
 - **Echoes of War (Roblox game)** PAUSED
 <p align="center">
-  <img width="455" height="355" src="https://github.com/user-attachments/assets/8e60dcbf-220f-4030-8627-c2f16606d618" />
+  <img width="355" height="255" src="https://github.com/user-attachments/assets/8e60dcbf-220f-4030-8627-c2f16606d618" />
 </p>
 
 A war game that I've been really working hard on  
@@ -70,7 +70,7 @@ I'm a native speaker :D
 Still need to learn more/practice
 
 - **Lao** <br>
-<img width="275" height="183" alt="download" src="https://github.com/user-attachments/assets/33518bb8-8362-462a-aef3-f357bc9e3e57" />
+<img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/33518bb8-8362-462a-aef3-f357bc9e3e57" />
 
 Very similar to Thai. And I can definitely speak that
 
