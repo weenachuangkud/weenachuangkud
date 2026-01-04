@@ -45,16 +45,16 @@ You know, I know :P
 
 <h1 align="center">Experenices</h1>
 
-- **Programming** : 2.5 Years
-- **Game development** : 2 Years
-- **Digital artist** : 2-3 Months
+- **Programming** : 3 Years
+- **Game development** : 3 Years
+- **Digital artist** : 1 Year
 
 ---
 
 <h1 align="center">What languages do I speak?</h1>
 
 - **English** <br>
-<img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/59e25e30-40fe-49c9-9f73-d603fdf4137f" />
+<img width="150" height="125" alt="images" src="https://github.com/user-attachments/assets/608f599d-74b9-4c70-ad0b-02e370618516" />
 
 I've been speaking English for about 4-5 years\
 Main language, mostly spoken
