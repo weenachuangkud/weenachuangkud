@@ -29,7 +29,7 @@
 </p>
 
 ### Languages
-<p>
+<p align="left">
   <img width="40" alt="English" src="https://github.com/user-attachments/assets/142c92bc-3520-407b-b0fc-b96c8dc9c094" />
   <img width="40" alt="Thai" src="https://github.com/user-attachments/assets/cd1deebc-14ed-4560-b781-9056cc12a005" />
   <img width="40" alt="Lao" src="https://github.com/user-attachments/assets/8e5c4795-84fd-40df-9c20-f70399925222" />
