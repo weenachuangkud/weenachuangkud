@@ -24,6 +24,7 @@
   <img width="40" alt="Krita" src="https://github.com/user-attachments/assets/9e5c8b57-fa67-4077-a378-34f61af6d607" />
   <img width="40" alt="Vscode" src="https://github.com/user-attachments/assets/29cc1647-5811-446b-b712-1dda9a0b837a" />
   <img width="40" alt="Window" src="https://github.com/user-attachments/assets/fe5fce02-0010-4227-a28a-9c45fb585970" />
+  <img width="40" alt="Window" src="https://github.com/user-attachments/assets/af9b3406-30b8-4122-9521-473811ecbc58" />
   <img width="40" alt="Microbit" src="https://github.com/user-attachments/assets/7ac837ba-d3ae-441f-af20-95034fd728da" />
   <img width="40" alt="javascript" src="https://github.com/user-attachments/assets/469746ec-5579-4ebc-a525-9bc4cac7d70a" />
   <img width="40" alt="Arduino" src="https://github.com/user-attachments/assets/0471f841-2725-4f77-a8d5-61b08d4b0b07" />
