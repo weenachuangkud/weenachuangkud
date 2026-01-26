@@ -43,7 +43,7 @@ You know, I know :P
 <img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/2f924e25-620b-4677-aca4-07cae6ab7c9e" />
 
 I've been speaking English for about 6 years.
-Main language, mostly spoken
+Main language, mostly spoken.
 
 - **Thai** <br>
 <img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/81efd222-cd1f-4b42-bcac-eee046cddc4e" />
@@ -58,4 +58,4 @@ Still need to learn more/practice
 - **Lao** <br>
 <img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/33518bb8-8362-462a-aef3-f357bc9e3e57" />
 
-Very similar to Thai. And I can definitely speak that
+Very similar to Thai, so I can speak it well.
