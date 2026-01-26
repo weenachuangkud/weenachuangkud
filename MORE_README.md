@@ -29,7 +29,7 @@ You know, I know :P
 
 ---
 
-<h1 align="center">Experenices</h1>
+<h1 align="center">Experiences</h1>
 
 - **Programming** : 3 Years
 - **Game development** : 3 Years
