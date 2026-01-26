@@ -37,7 +37,7 @@ You know, I know :P
 
 ---
 
-<h1 align="center">What languages do I speak?</h1>
+<h1 align="center">Languages I speak</h1>
 
 - **English** <br>
 <img width="150" height="165" alt="images" src="https://github.com/user-attachments/assets/608f599d-74b9-4c70-ad0b-02e370618516" />
@@ -50,7 +50,7 @@ Main language, mostly spoken
 
 I'm a native speaker :D
 
-- **Little of Chinese** <br>
+- **Basic Chinese** <br>
 <img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/1a9d6677-8e3c-4125-8483-aeaa8e3f0aa5" />
 
 Still need to learn more/practice
