@@ -23,7 +23,7 @@ Good luck to me :P
 I learn Chinese because some of my followers on social media are Chinese.  
 (Also, it's my hobby and I like it!)
 
-- **Programming**  
+- **Programming/Tech stacks**  
 You know, I know :P
 
 
