@@ -42,7 +42,7 @@ You know, I know :P
 - **English** <br>
 <img width="150" height="125" alt="download" src="https://github.com/user-attachments/assets/2f924e25-620b-4677-aca4-07cae6ab7c9e" />
 
-I've been speaking English for about 6 years\
+I've been speaking English for about 6 years.
 Main language, mostly spoken
 
 - **Thai** <br>
