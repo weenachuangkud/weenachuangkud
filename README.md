@@ -41,7 +41,9 @@
 
 ### Educations
 <p align="left">
-  <img width="40" alt="โรงเรียนวัดพลมานีย์" src="https://github.com/user-attachments/assets/3dd674ce-747f-4498-8ac4-95722b829a61" />
+  <a href="https://www.facebook.com//watpol.school"> 
+    <img width="40" alt="โรงเรียนวัดพลมานีย์" src="https://github.com/user-attachments/assets/3dd674ce-747f-4498-8ac4-95722b829a61" />
+  </a>
   <img width="40" alt="โรงเรียนแสงหิรัญวิทยา" src="https://github.com/user-attachments/assets/0f2fa8fc-a55f-4cce-a49e-6e5192605514" />
 <p/>
 
