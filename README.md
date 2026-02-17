@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Programmer • Digital Artist • Game Developer</strong><br>
+  <strong>Programmer • 2D Illustrator • Game Developer</strong><br>
   Technology Enthusiast<br>
   Based in <b>Bangkok, Thailand</b><br>
   15 y/o
