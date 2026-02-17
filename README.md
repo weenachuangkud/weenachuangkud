@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <strong>I'm a Programmer, Digital Artist, and Game Developer</strong><br>
-  from <b>Bangkok, Thailand</b> <br>
-  aka <strong>silly asian dude</strong> <br>
+  <strong>Programmer • Digital Artist • Game Developer</strong><br>
+  Technology Enthusiast<br>
+  Based in <b>Bangkok, Thailand</b><br>
   15 y/o
 </p>
 
