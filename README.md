@@ -10,6 +10,11 @@
   15 y/o
 </p>
 
+
+### I'm Current learning
+computer science, game development, C/C++
+I’ll be starting a vocational program in Mechatronics and Robotics in a few months.
+
 ### Skills
 
 <p align="left">
