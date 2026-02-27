@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!, I'm Mawin :D</h1>
+<h1 align="center">Hi there! I'm Mawin</h1>
 
 <p align="center">
   <img src="gifs/oh-hey-oh-hey-there.gif" width="250" />
@@ -7,13 +7,18 @@
 <p align="center">
   <strong>Programmer • 2D Illustrator • Game Developer</strong><br>
   Based in <b>Bangkok, Thailand</b><br>
-  15 y/o
+  15 y/o • High school student
 </p>
 
 
-### I'm Current learning
-computer science, game development, C/C++
-I’ll be starting a vocational program in Mechatronics and Robotics in a few months.
+### Currently Learning
+- Computer Science  
+- Game Development  
+- C / C++  
+- Incoming Mechatronics & Robotics vocational student
+
+
+---
 
 ### Skills
 
