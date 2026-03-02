@@ -12,9 +12,8 @@
 
 
 ### Currently Learning
-- Computer Science  
-- Game Development  
-- C / C++  
+- hardware + control systems + embedded programming
+- C / C++ / Python
 - Incoming Mechatronics & Robotics vocational student
 
 
