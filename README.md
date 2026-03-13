@@ -14,7 +14,7 @@
 ### Currently Learning
 - hardware + control systems + embedded programming
 - C / C++ / Python
-- Incoming Mechatronics & Robotics vocational student in less than 10 days
+- Incoming Mechatronics & Robotics vocational student (10 days left)
 
 
 ---
