@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Programmer • 2D Illustrator • Game Developer</strong><br>
   Based in <b>Bangkok, Thailand</b><br>
-  15 y/o • High school student
+  15 y/o • High school student (about to graduate)
 </p>
 
 
