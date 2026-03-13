@@ -7,14 +7,14 @@
 <p align="center">
   <strong>Programmer • 2D Illustrator • Game Developer</strong><br>
   Based in <b>Bangkok, Thailand</b><br>
-  15 y/o • High school student (about to graduate)
+  15 y/o • High school student
 </p>
 
 
 ### Currently Learning
 - hardware + control systems + embedded programming
 - C / C++ / Python
-- Incoming Mechatronics & Robotics vocational student
+- Incoming Mechatronics & Robotics vocational student in less than 10 days
 
 
 ---
