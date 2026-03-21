@@ -39,6 +39,7 @@
   <img width="40" alt="Git" src="https://github.com/user-attachments/assets/bc6e34d3-f8ae-4391-8e43-cf982aecb2e5" />
   <img width="40" alt="SourceTree" src="https://github.com/user-attachments/assets/987f04c6-fec4-42e8-a7ef-effcd3eba7a2" />
   <img width="40" alt="YAML" src="https://github.com/user-attachments/assets/9900fc47-c1a8-42d3-8ab6-f0208bdac0fa" />
+  <img width="40" alt="Kate editor" src="https://github.com/user-attachments/assets/6b68b5ad-ac63-4a6f-b1a5-c4992604e325" />
 </p>
 
 ### Languages
