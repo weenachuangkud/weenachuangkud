@@ -40,6 +40,7 @@
   <img width="40" alt="SourceTree" src="https://github.com/user-attachments/assets/987f04c6-fec4-42e8-a7ef-effcd3eba7a2" />
   <img width="40" alt="YAML" src="https://github.com/user-attachments/assets/9900fc47-c1a8-42d3-8ab6-f0208bdac0fa" />
   <img width="40" alt="Kate editor" src="https://github.com/user-attachments/assets/6b68b5ad-ac63-4a6f-b1a5-c4992604e325" />
+  <img width="40" alt="CMake" src="https://github.com/user-attachments/assets/9f6f6c5c-0dcc-4336-b52f-c6f18d379045" />
 </p>
 
 ### Languages
