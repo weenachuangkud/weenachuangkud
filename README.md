@@ -13,7 +13,7 @@
 
 ### Currently Learning
 - hardware + control systems + embedded programming
-- C / C++ / Python
+- C++ / Python
 - Incoming Mechatronics & Robotics vocational student
 
 
