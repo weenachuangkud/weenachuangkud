@@ -11,12 +11,6 @@
 </p>
 
 
-### Currently Learning
-- OpenCV
-- C++ / Python
-- Incoming Mechatronics & Robotics vocational student
-
-
 <!--
 **weenachuangkud/weenachuangkud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
