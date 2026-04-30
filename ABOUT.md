@@ -39,4 +39,7 @@
   <a href="https://www.facebook.com/sanghirunwittaya">
     <img width="40" alt="โรงเรียนแสงหิรัญวิทยา" src="https://github.com/user-attachments/assets/0f2fa8fc-a55f-4cce-a49e-6e5192605514" />
   </a>
+  <a href="https://www.facebook.com/kpsptc.ac.th/">
+    <img width="40" alt="วิทยาลัยเทคนิคกาญจนาสมุทรปราการ" src="https://github.com/user-attachments/assets/baba7464-0f3c-4b45-a073-5625adfb37ca" />
+  </a>
 <p/>
