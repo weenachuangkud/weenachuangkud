@@ -10,7 +10,11 @@
   15 y/o • High school student
 </p>
 
-[.. More about me](ABOUT.md)
+
+
+<p align="center">
+  <a href="ABOUT.md">→ Explore my background</a>
+</p>
 
 
 <!--
