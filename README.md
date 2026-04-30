@@ -10,6 +10,8 @@
   15 y/o • High school student
 </p>
 
+[.. More about me](ABOUT.md)
+
 
 <!--
 **weenachuangkud/weenachuangkud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
