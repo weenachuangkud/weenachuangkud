@@ -23,6 +23,8 @@
   <img width="40" alt="Kate editor" src="https://github.com/user-attachments/assets/6b68b5ad-ac63-4a6f-b1a5-c4992604e325" />
   <img width="40" alt="CMake" src="https://github.com/user-attachments/assets/9f6f6c5c-0dcc-4336-b52f-c6f18d379045" />
 </p>
+<img width="40" alt="Makefile" src="https://github.com/user-attachments/assets/b82601d1-e975-4c14-9f20-eec1ef9306b9" />
+
 
 ### Languages
 <p align="left">
