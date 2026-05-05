@@ -1,5 +1,5 @@
 ### Experience
-- Game Development - 3 years (Roblox Studio, Lua/Luau)
+- Roblox Game Development - 3 years (Roblox Studio, Lua/Luau)
 
 ### Skills
 
