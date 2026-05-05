@@ -11,9 +11,8 @@
 </p>
 
 
-
 <p align="center">
-  <a href="ABOUT.md">→ Explore my background</a>
+  <a href="ABOUT.md">→ More about me</a>
 </p>
 
 
