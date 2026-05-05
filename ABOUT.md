@@ -47,3 +47,6 @@
     <img width="40" alt="วิทยาลัยเทคนิคกาญจนาสมุทรปราการ" src="https://github.com/user-attachments/assets/baba7464-0f3c-4b45-a073-5625adfb37ca" />
   </a>
 <p/>
+
+### Contacts
+- Discord: mawinck06_
