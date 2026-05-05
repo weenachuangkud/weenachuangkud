@@ -28,25 +28,18 @@
 <img width="40" alt="Makefile" src="https://github.com/user-attachments/assets/b82601d1-e975-4c14-9f20-eec1ef9306b9" />
 
 
-### Languages
-<p align="left">
-  <img width="40" alt="English" src="https://github.com/user-attachments/assets/142c92bc-3520-407b-b0fc-b96c8dc9c094" />
-  <img width="40" alt="Thai" src="https://github.com/user-attachments/assets/cd1deebc-14ed-4560-b781-9056cc12a005" />
-  <img width="40" alt="Lao" src="https://github.com/user-attachments/assets/8e5c4795-84fd-40df-9c20-f70399925222" />
-</p>
+### Spoken Languages
+- Thai (Native)
+- English (Intermediate)
+- Lao (Basic)
 
-### Educations
-<p align="left">
-  <a href="https://www.facebook.com//watpol.school"> 
-    <img width="40" alt="โรงเรียนวัดพลมานีย์" src="https://github.com/user-attachments/assets/3dd674ce-747f-4498-8ac4-95722b829a61" />
-  </a>
-  <a href="https://www.facebook.com/sanghirunwittaya">
-    <img width="40" alt="โรงเรียนแสงหิรัญวิทยา" src="https://github.com/user-attachments/assets/0f2fa8fc-a55f-4cce-a49e-6e5192605514" />
-  </a>
-  <a href="https://www.facebook.com/kpsptc.ac.th/">
-    <img width="40" alt="วิทยาลัยเทคนิคกาญจนาสมุทรปราการ" src="https://github.com/user-attachments/assets/baba7464-0f3c-4b45-a073-5625adfb37ca" />
-  </a>
-<p/>
+### Education
+- Mechatronics Engineering (Vocational, Year 1)  
+  Kanchanasamutprakan Technical College
+
+- Previous Schools:
+  - Watpolmanee School
+  - Sanghirunwittaya School
 
 ### Contacts
 - Discord: mawinck06_
